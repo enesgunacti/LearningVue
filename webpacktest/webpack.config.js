@@ -24,6 +24,7 @@ module.exports = {
        new MiniCssExtractPlugin ({
         filename:'main.css'
        })
-    ]
+    ],
+    watch:true
     
 }
